@@ -51,6 +51,7 @@ if(isset($_GET['logout'])){
                 
                 </li>
             </ul>
+<!--          Button type must be sumbit        -->
             <form method="get" class="d-flex" role="search">
                 <button name="logout" class="btn btn-outline-success"type="submit">Logout</button>
             </form>
